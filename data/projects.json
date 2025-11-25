@@ -1,0 +1,44 @@
+[
+  {
+    "id": "1",
+    "title": "Urban Architecture",
+    "category": "Photography",
+    "imageUrl": null,
+    "description": "Exploring the lines and curves of modern cities."
+  },
+  {
+    "id": "2",
+    "title": "Nature's Whisper",
+    "category": "Videography",
+    "imageUrl": null,
+    "description": "A journey into the silent woods."
+  },
+  {
+    "id": "3",
+    "title": "Abstract Forms",
+    "category": "Art",
+    "imageUrl": null,
+    "description": "Breaking down reality into shapes and colors."
+  },
+  {
+    "id": "4",
+    "title": "London Eye",
+    "category": "Photography",
+    "imageUrl": null,
+    "description": "Iconic views of London."
+  },
+  {
+    "id": "5",
+    "title": "Minimalist White",
+    "category": "Design",
+    "imageUrl": null,
+    "description": "The beauty of simplicity."
+  },
+  {
+    "id": "6",
+    "title": "Golden Palm",
+    "category": "Photography",
+    "imageUrl": null,
+    "description": "Tropical vibes in golden hour."
+  }
+]
